@@ -33,11 +33,14 @@
 2.  **[点击此处安装脚本](https://github.com/SeekFreeSky/HaoKanQualityUnlock/raw/refs/heads/main/HaoKanQualityUnlock.user.js)** (链接指向你的 GitHub Raw 文件)。
 3.  打开任意 [好看视频](https://haokan.baidu.com/) 播放页即可生效。
 
-## ⚙️ 工作原理 | How it works
+## ⚙️ 1.0.X 工作原理 | How it works
 
 1.  **能力检测**：脚本启动时读取 `window.__PRELOADED_STATE__` 获取视频真实的流媒体地址列表。
 2.  **画质锁定**：根据优先级 (`4K > 2K > 1080P > 720P`) 自动替换 `<video>` 标签的 `src` 源。
 3.  **视觉清洗**：通过关键词 (`App`, `扫码`, `360`) 扫描播放器 DOM 节点，隐藏多余的诱导元素。
+
+## ⚙️ 2.X.0 工作原理 | How it works
+利用 MutationObserver 和 Object.defineProperty 实现的零轮询、事件驱动型解锁脚本。
 
 ## 📸 预览 | Preview
 
