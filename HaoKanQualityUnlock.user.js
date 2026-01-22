@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         好看视频画质自动解锁222222222
+// @name         好看视频画质自动解锁
 // @namespace    https://github.com/SeekFreeSky/HaoKanQualityUnlock
 // @version      1.0.4
 // @description  [画质重构] 自动锁定 4K/2K/1080P/720P 最高画质；通过“App扫码”特征精准移除播放器内的多余按钮；采用动态心跳机制（刚加载时高频扫描，后续低频守护），既快又不卡。
