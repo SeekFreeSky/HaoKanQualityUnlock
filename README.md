@@ -1,8 +1,8 @@
 # 🚀 好看视频画质自动解锁 (HaoKan Quality Unlock)
 
 <p align="center">
-  <a href="https://github.com/SeekFreeSky/HaoKanQualityUnlock/blob/main/HaoKanQualityUnlock.user.js">
-    <img src="https://github.com/SeekFreeSky/HaoKanQualityUnlock/raw/refs/heads/main/HaoKanQualityUnlock.user.js" alt="Install">
+  <a href="https://github.com/SeekFreeSky/HaoKanQualityUnlock/raw/refs/heads/main/HaoKanQualityUnlock.user.js">
+  <img src="https://img.shields.io/badge/Install-v1.0.0-success?style=for-the-badge&logo=tampermonkey" alt="Install">
   </a>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="license">
   <img src="https://img.shields.io/badge/Platform-Browser-orange?style=for-the-badge" alt="platform">
